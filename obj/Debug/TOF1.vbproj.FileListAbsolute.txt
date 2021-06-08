@@ -1,0 +1,12 @@
+c:\users\dcolu\source\repos\TOF1\TOF1\bin\Debug\TOF1.exe.config
+c:\users\dcolu\source\repos\TOF1\TOF1\bin\Debug\TOF1.exe
+c:\users\dcolu\source\repos\TOF1\TOF1\bin\Debug\TOF1.pdb
+c:\users\dcolu\source\repos\TOF1\TOF1\bin\Debug\TOF1.xml
+c:\users\dcolu\source\repos\TOF1\TOF1\obj\Debug\TOF1.vbprojAssemblyReference.cache
+c:\users\dcolu\source\repos\TOF1\TOF1\obj\Debug\TOF1.Form1.resources
+c:\users\dcolu\source\repos\TOF1\TOF1\obj\Debug\TOF1.Resources.resources
+c:\users\dcolu\source\repos\TOF1\TOF1\obj\Debug\TOF1.vbproj.GenerateResource.cache
+c:\users\dcolu\source\repos\TOF1\TOF1\obj\Debug\TOF1.vbproj.CoreCompileInputs.cache
+c:\users\dcolu\source\repos\TOF1\TOF1\obj\Debug\TOF1.exe
+c:\users\dcolu\source\repos\TOF1\TOF1\obj\Debug\TOF1.xml
+c:\users\dcolu\source\repos\TOF1\TOF1\obj\Debug\TOF1.pdb
